@@ -1,4 +1,4 @@
-# 🌠 Welcome to my profile~!
+<h1 align="center">💫 Welcome to my profile~! 💫</h1>
 
 ## ✨ About Me
 Hiya, the name's **vistart**~! I'm a tech enthusiast who enjoys exploring new ideas, learning new technologies, and turning creative concepts into something real. I’m especially interested in how technology and creativity come together to build useful and engaging digital experiences.
