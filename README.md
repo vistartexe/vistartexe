@@ -54,8 +54,6 @@ I'm also open to collaborating on interesting projects, contributing to open-sou
   <a href="https://instagram.com/vistartexe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://x.com/vistartexe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X / Twitter-0f0e0f?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://github.com/vistartexe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://wa.me/6289516021991" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="mailto:vistagemaangkasa@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
